@@ -1,0 +1,76 @@
+.logo {
+    height: 60px;
+    color: white;
+    line-height: 60px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.vi-content > .ant-row {
+    background-color: #F6F6F6;
+    margin: 0 0 !important;
+}
+
+.vi-top {
+    margin-top: 27px !important;
+}
+
+.vi-bottom {
+    margin-bottom: 17px !important;
+}
+
+.vi-hover {
+    cursor: pointer
+}
+
+.vi-17 {
+    font-size: 1.0rem !important;
+}
+
+.vi-color {
+    color: #1890FF !important;
+}
+
+.vi-mini-top {
+    margin-top: 17px !important;
+}
+
+.vi-span {
+    margin-left: 17px !important;
+}
+
+.vi-padding {
+    padding: 17px !important;
+}
+
+.markdown-navigation .title-level1 {
+    font-size: 0.9em !important;
+}
+
+blockquote  {
+    background-color: #F8F8F8;
+    border-left: 5px solid #1890FF;
+}
+
+.detailed-content > h2, h1,  h3, h4, h5, h6 {
+    padding-left: 1.0rem;
+    border-left: 5px solid  #1890FF;
+    margin: 0.7rem 0;
+}
+
+.detailed-content p {
+    line-height: 1.9rem;
+    font-size: 1.1rem;
+    color: #777;
+    margin-bottom: 1em;
+    margin-top: 0;
+}
+
+.vi-icon {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+blockquote p {
+    padding: 15px;
+}
